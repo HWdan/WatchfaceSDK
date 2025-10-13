@@ -1,0 +1,53 @@
+PODS:
+  - Masonry (1.1.0)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - RSColorPicker (0.9.2)
+  - SDWebImage (5.19.7):
+    - SDWebImage/Core (= 5.19.7)
+  - SDWebImage/Core (5.19.7)
+  - SnapKit (5.7.1)
+  - SSZipArchive (2.4.3)
+  - WatchfaceSDK (1.0.6):
+    - Masonry
+    - SSZipArchive
+    - Zip (~> 2.1)
+  - Zip (2.1.2)
+
+DEPENDENCIES:
+  - Reusable
+  - RSColorPicker
+  - SDWebImage
+  - SnapKit
+  - WatchfaceSDK (from `../`)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Masonry
+    - Reusable
+    - RSColorPicker
+    - SDWebImage
+    - SnapKit
+    - SSZipArchive
+    - Zip
+
+EXTERNAL SOURCES:
+  WatchfaceSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  RSColorPicker: 4d71e12f8e28d44c3885fbb3ba10bc3627bdb393
+  SDWebImage: 8a6b7b160b4d710e2a22b6900e25301075c34cb3
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  WatchfaceSDK: 2b7153370c3e8c88318ab94ff818d7345b0481b5
+  Zip: b3fef584b147b6e582b2256a9815c897d60ddc67
+
+PODFILE CHECKSUM: 196c2879b22b95a0e66d79472e02b2618983feb6
+
+COCOAPODS: 1.14.3

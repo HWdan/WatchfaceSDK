@@ -1,0 +1,19 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'WatchfaceSDK_Example' do
+  pod 'WatchfaceSDK', :path => '../'
+  
+#  pod 'SSZipArchive'
+  pod 'SnapKit'
+  pod 'Reusable'
+  pod 'RSColorPicker'
+  pod 'SDWebImage'
+  
+  target 'WatchfaceSDK_Tests' do
+    inherit! :search_paths
+    
+  end
+end
