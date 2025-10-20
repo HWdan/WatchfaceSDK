@@ -13,7 +13,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'http://192.168.12.244/ios/watchfacesdk.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
-  s.swift_version    = '4.2'
+  s.swift_version    = ['4.2', '5.0']
   s.source_files = 'WatchfaceSDK/Classes/Watchface/**/*','WatchfaceSDK/Classes/OTA/**/*'
   s.resources = ['WatchfaceSDK/Assets/*']
 
@@ -25,5 +25,20 @@ TODO: Add long description of the pod here.
   s.dependency 'Zip', '~> 2.1'
   s.dependency 'SSZipArchive'
   s.dependency 'Masonry'
-  s.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
+  
+  
+  # 关键配置：解决所有问题
+    s.pod_target_xcconfig = {
+      # 架构配置
+      'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    }
+    
+    s.user_target_xcconfig = {
+        'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    }
+    # 明确声明不支持模拟器
+    s.xcconfig = {
+        'SUPPORTED_PLATFORMS' => 'iphoneos'
+    }
+  #s.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
 end
