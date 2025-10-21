@@ -4,21 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/Zip.framework/Info.plist</key>
-		<data>
-		wppRjGodrv41LYp4FAm9vNPK4HY=
-		</data>
-		<key>Frameworks/Zip.framework/Zip</key>
-		<data>
-		+46lsVq2lHHfHI+atSZ8+S5LtcI=
-		</data>
-		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
-		<data>
-		gk9/H7FewoESYVCuq6LBKxKpFXA=
-		</data>
 		<key>Headers/SifliOTAManagerSDK-Swift.h</key>
 		<data>
-		Vso+XNHs7hIHDQAX3dZGFCdrX9k=
+		GGeLCkzBdEgM3AaBcL6EUcAaF04=
 		</data>
 		<key>Headers/SifliOTAManagerSDK.h</key>
 		<data>
@@ -26,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		davtWg/iXW6d8Q59ylFCndsS0wE=
+		bMPPbzJwAJQjFtMdZDruIMvgx9Y=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		HEAIOMzOpIbUBef2yA3Y+ir3mLw=
+		EbAhjMZJ4VGjExzFjPMIDDrt4aE=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Wld++85p5WGyoePl7OMetfmsf0U=
+		hghnixkr3hs6JNXRaimgpg2+5pQ=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		CZ/eo8AuA7PluXeri7GfzOlVxYA=
+		MMsEJc5sOMmT6ALcDtxQxa0exD0=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		5hLvT1wCw2mFDew+K9Nc0D+dcN0=
+		P4fpcuDL7y0eB7A1Kk8wf79Z8mc=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		CZ/eo8AuA7PluXeri7GfzOlVxYA=
+		MMsEJc5sOMmT6ALcDtxQxa0exD0=
 		</data>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		u1xvihs6qhthXar/35YKo2Z81pc=
+		dSKNtgTdPZmLM2UxvrdwYmAAU9Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,48 +47,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/Zip.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wppRjGodrv41LYp4FAm9vNPK4HY=
-			</data>
-			<key>hash2</key>
-			<data>
-			LtK1MNOkBajyYSS5Ih4UFN6bIbzDA+/6taXinl0fapo=
-			</data>
-		</dict>
-		<key>Frameworks/Zip.framework/Zip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+46lsVq2lHHfHI+atSZ8+S5LtcI=
-			</data>
-			<key>hash2</key>
-			<data>
-			X6YtowGVH3n+169O/gLn8CNX12om+7H4z3b7Ci40GWw=
-			</data>
-		</dict>
-		<key>Frameworks/Zip.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gk9/H7FewoESYVCuq6LBKxKpFXA=
-			</data>
-			<key>hash2</key>
-			<data>
-			tijHIYuaegh/g0rAEo7l6Ll/VvuCWayuXBgpZ7+eHqM=
-			</data>
-		</dict>
 		<key>Headers/SifliOTAManagerSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vso+XNHs7hIHDQAX3dZGFCdrX9k=
+			GGeLCkzBdEgM3AaBcL6EUcAaF04=
 			</data>
 			<key>hash2</key>
 			<data>
-			17UxDSbctx1FSucL/MyKs0yPU8+tVCCYfzC0tACuBBU=
+			kRMEQIL14dsa9poI3CGO2RLIeD4uprY/CYkbNgw9YUs=
 			</data>
 		</dict>
 		<key>Headers/SifliOTAManagerSDK.h</key>
@@ -118,66 +73,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HEAIOMzOpIbUBef2yA3Y+ir3mLw=
+			EbAhjMZJ4VGjExzFjPMIDDrt4aE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X9ATHhu3pQyvDsj4h36gNP2ZHyFOJqUy5CAyfO1H70A=
+			iVkClFL9sr8ncfgMpomIk25S1uHU6/kBiym1GVo9hnw=
 			</data>
 		</dict>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wld++85p5WGyoePl7OMetfmsf0U=
+			hghnixkr3hs6JNXRaimgpg2+5pQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8jbKBUos6oVepOihVGECnJS09QOi4+R3BwKaCi394Gg=
+			pWFGHY2ME0L/ly7davu1BfuJTS6ZHYyu6Fa8xR+APVE=
 			</data>
 		</dict>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZ/eo8AuA7PluXeri7GfzOlVxYA=
+			MMsEJc5sOMmT6ALcDtxQxa0exD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eN4moUMutB/V8sPAzQglj0vpIXV69wU9yVezdfEBFCw=
+			azJQYKOtnMG0grBduJJPIvmNpSg0acHqh4nupT25ANk=
 			</data>
 		</dict>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5hLvT1wCw2mFDew+K9Nc0D+dcN0=
+			P4fpcuDL7y0eB7A1Kk8wf79Z8mc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YsEw8mzikdF34chKtVvWQHLI9at1SFeFjFXH8JlvuRY=
+			YGD8P1gdObCSjxDbe5W/IyuRB9KsnhvZ9UcYQSPXec0=
 			</data>
 		</dict>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZ/eo8AuA7PluXeri7GfzOlVxYA=
+			MMsEJc5sOMmT6ALcDtxQxa0exD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eN4moUMutB/V8sPAzQglj0vpIXV69wU9yVezdfEBFCw=
+			azJQYKOtnMG0grBduJJPIvmNpSg0acHqh4nupT25ANk=
 			</data>
 		</dict>
 		<key>Modules/SifliOTAManagerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u1xvihs6qhthXar/35YKo2Z81pc=
+			dSKNtgTdPZmLM2UxvrdwYmAAU9Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZiAvnjeXc/2wnguEQ5EMVckegVAaCbNiglC84B/dHZU=
+			WPa5Owxsrh3dq6OHPa0Xa2Ly4ejL8GtPh3ymeoH+9A8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

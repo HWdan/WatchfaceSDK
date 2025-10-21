@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/SFDialPlateSDK-Swift.h</key>
 		<data>
-		TUG5g3h4lSBFxa1xh3fXZFfkEgs=
+		ed02av08leQtvovGA34iavjBBEA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JBL4H3AfVtEuyzSc2GDItyJwcDc=
+		zLNsUFjhALIt71XWV1SkaR9/XzU=
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		tUS3kWvAHZ1sV1tZ4RlfVjxnga4=
+		tA0mVKhY2mqzp2TRcwKhmQtwUk4=
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		sb7lTnRCZAo10iSUoaiYvnSYD5I=
+		WGVqZPK5qlWhLB7UENATKZ4raoA=
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Bn4wHRvIO0ieQRT34HWSaA/hs7E=
+		WbZP4xvpsEUzbNQz1/moDcLg8ak=
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		sb7lTnRCZAo10iSUoaiYvnSYD5I=
+		WGVqZPK5qlWhLB7UENATKZ4raoA=
 		</data>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		71fXauccRCAI0A+0Y4JVW5nTKdM=
+		8obDHSROu5GEVnTkWjfnlSldcww=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,22 +47,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TUG5g3h4lSBFxa1xh3fXZFfkEgs=
+			ed02av08leQtvovGA34iavjBBEA=
 			</data>
 			<key>hash2</key>
 			<data>
-			S1AErqOh/Ow4dMJkAUXtk4ZN+rHX2lX1hSYR7OVD7dg=
+			Fgqmh4GsHtxuaBLIMlAf/agWbo4bDHfU1+NWNpcFPr0=
 			</data>
 		</dict>
 		<key>Modules/SFDialPlateSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tUS3kWvAHZ1sV1tZ4RlfVjxnga4=
+			tA0mVKhY2mqzp2TRcwKhmQtwUk4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihKbPBSEq0IRXLxG9nuwC6+mp1CN+eyB4ysN4Vx9Xf4=
+			iUIfaxVcfIjWFg8TxrAs5fJ272xt9aiK9pSEJnpFiUg=
 			</data>
 		</dict>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -80,44 +80,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sb7lTnRCZAo10iSUoaiYvnSYD5I=
+			WGVqZPK5qlWhLB7UENATKZ4raoA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vsPJ2+ar8KRLaho8nUEi5Ti44aozzbHEn68XCiLEcGY=
+			1IUGrJTCXtuW5VzxnMvolWJU7dgM9LmGS3WsQSawdu4=
 			</data>
 		</dict>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bn4wHRvIO0ieQRT34HWSaA/hs7E=
+			WbZP4xvpsEUzbNQz1/moDcLg8ak=
 			</data>
 			<key>hash2</key>
 			<data>
-			nnoWJ7Lg9tmlPdxGpOFH0PTYlyz7/HnKlis5Ny7MaSI=
+			4ndi32yAjr7LuFloVsUDxyxb4KEMhXI7BSKGRkhFOAI=
 			</data>
 		</dict>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sb7lTnRCZAo10iSUoaiYvnSYD5I=
+			WGVqZPK5qlWhLB7UENATKZ4raoA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vsPJ2+ar8KRLaho8nUEi5Ti44aozzbHEn68XCiLEcGY=
+			1IUGrJTCXtuW5VzxnMvolWJU7dgM9LmGS3WsQSawdu4=
 			</data>
 		</dict>
 		<key>Modules/SFDialPlateSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			71fXauccRCAI0A+0Y4JVW5nTKdM=
+			8obDHSROu5GEVnTkWjfnlSldcww=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y5ljGDYfFCBufPE9fXYQhDsays+dPyNqlmjHvwYe7XM=
+			0302vppJkbi1EAdKKs4nwOB1h26fnzDtjpywAQeA2Vk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
